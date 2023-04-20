@@ -1,0 +1,25 @@
+section {
+    padding: 2em;
+}
+.even-columns {
+    display: flex;
+    gap: 1em;
+   
+}
+
+
+
+/* General */
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 1.25rem;
+    padding: 0;
+    margin: 0;
+    background-color: lightslategrey;
+}
